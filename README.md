@@ -1,18 +1,36 @@
-## Hi there 👋
+# Hi, I'm Arnesh Bera 👋
 
-<!--
-**bitwise-arnesh/bitwise-arnesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student from Kolkata  
+💡 Interested in Data Science, AI & Machine Learning  
+💻 Passionate about Problem Solving and DSA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on improving DSA skills
+- 🌱 Learning Machine Learning and AI concepts
+- 💡 Solved 100+ LeetCode problems
+- 🎯 Goal: Crack top tech roles and build impactful projects
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/bitwise_arnesh?ext=contest)
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, Python
+- 📊 Core: Data Structures & Algorithms
+- 🤖 Interests: Machine Learning, AI
+
+---
+
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/bitwise_arnesh?ext=contest)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/arneshbera
+- 🧠 LeetCode: https://leetcode.com/u/bitwise_arnesh/
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving complex problems and continuously improving my logical thinking 🚀
