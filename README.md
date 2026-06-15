@@ -1,100 +1,92 @@
-# Hi, I'm Arnesh Bera 👋
+<h1 align="center">Hi 👋, I'm Arnesh Bera</h1>
 
-### BTech CSE Student | Aspiring Data Scientist & AI/ML Engineer
+<h3 align="center">
+Aspiring Data Scientist • AI/ML Enthusiast • Problem Solver
+</h3>
 
-Passionate about building AI-powered applications, solving algorithmic problems, and transforming data into meaningful insights. Currently focused on Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Data Science.
-
----
-
-## About Me
-
-- 🎓 BTech Computer Science Student from Kolkata, India
-- 💻 Strong interest in Data Science, Machine Learning, and AI
-- 🧩 Solved 100+ LeetCode problems and actively improving DSA skills
-- 🚀 Building end-to-end Machine Learning and AI applications
-- 📚 Continuously learning modern AI frameworks and LLM technologies
-- 🎯 Goal: Contribute to impactful AI products and crack top tech roles
+<p align="center">
+Building AI-powered applications, exploring Machine Learning,
+and solving algorithmic challenges.
+</p>
 
 ---
 
-## Tech Stack
-
-### Languages
-- Java
-- Python
-- SQL
-
-### Data Science & Machine Learning
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Machine Learning
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-
-### AI & LLM Technologies
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Pinecone
-- HuggingFace Embeddings
-- Groq API
-- Generative AI
-- Prompt Engineering
-
-### Databases
-- SQLite
-- Vector Databases
-
-### Development & Deployment
-- Streamlit
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
-
-### Core CS
-- Data Structures & Algorithms
-- Problem Solving
-- Object-Oriented Programming
-
----
-
-## Featured Projects
-
-### InvoiceLens
-End-to-end freight cost prediction system covering data ingestion, preprocessing, feature engineering, model training, evaluation, and Streamlit deployment.
-
-### Medical RAG Chatbot
-Built an AI-powered medical assistant using LangChain, Pinecone, HuggingFace Embeddings, and Groq LLMs for context-aware question answering over medical documents.
-
----
-
-## Current Focus
+## 🚀 Current Focus
 
 - Machine Learning
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
 - Data Structures & Algorithms
 - End-to-End AI Applications
 
 ---
 
-## LeetCode Stats
+## 🛠️ Tech Stack
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bitwise_arnesh?theme=dark&font=Karma&ext=contest)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 ---
 
-## Connect With Me
+## ⭐ Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/arneshbera
+### InvoiceLens
+End-to-End Freight Cost Prediction System
+
+- Data Ingestion
+- Feature Engineering
+- Model Training & Evaluation
+- Streamlit Deployment
+
+### Medical RAG Chatbot
+
+- LangChain
+- Pinecone Vector Database
+- HuggingFace Embeddings
+- Groq LLM
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 📊 GitHub & LeetCode Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bitwise-arnesh&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwise-arnesh&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/bitwise_arnesh?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/arneshbera
 - LeetCode: https://leetcode.com/u/bitwise_arnesh/
 
 ---
 
-## Fun Fact
+### 💡 Fun Fact
 
-I enjoy breaking down complex problems into simple solutions and continuously improving my analytical thinking through DSA, Machine Learning, and AI projects.
+I enjoy transforming complex problems into simple solutions through DSA, Machine Learning, and AI.
