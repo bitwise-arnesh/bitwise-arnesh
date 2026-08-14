@@ -70,12 +70,12 @@ and solving algorithmic challenges.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwise-arnesh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwise-arnesh&show_icons=true&hide_border=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwise-arnesh&layout=compact&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bitwise-arnesh&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bitwise-arnesh&hide_border=true" />
 </p>
 
 ---
