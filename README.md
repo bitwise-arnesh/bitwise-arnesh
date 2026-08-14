@@ -6,7 +6,7 @@ Aspiring Data Scientist • AI/ML Enthusiast • Problem Solver
 
 <p align="center">
 Building AI-powered applications, exploring Machine Learning,
-and solving algorithmic challenges.
+and solving challenging problems.
 </p>
 
 ---
@@ -50,7 +50,7 @@ and solving algorithmic challenges.
 ## ⭐ Featured Projects
 
 ### InvoiceLens
-End-to-End Freight Cost Prediction System
+**End-to-End Freight Cost Prediction System**
 
 - Data Ingestion
 - Feature Engineering
@@ -67,15 +67,11 @@ End-to-End Freight Cost Prediction System
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bitwise-arnesh&show_icons=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwise-arnesh&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/bitwise_arnesh?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
@@ -83,7 +79,6 @@ End-to-End Freight Cost Prediction System
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/arneshbera
-- LeetCode: https://leetcode.com/u/bitwise_arnesh/
 
 ---
 
