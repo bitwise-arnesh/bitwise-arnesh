@@ -5,18 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bitwise-arnesh">
-    <img src="https://komarev.com/ghpvc/?username=bitwise-arnesh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/bitwise-arnesh?tab=followers">
-    <img src="https://img.shields.io/github/followers/bitwise-arnesh?label=Followers&style=flat-square&color=181717&logo=github" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=bitwise-arnesh&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arneshbera">
     <img src="https://img.shields.io/badge/LinkedIn-Arnesh%20Bera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/bitwise-arnesh">
     <img src="https://img.shields.io/badge/GitHub-bitwise--arnesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -28,7 +24,7 @@
 
 I'm a **Computer Science undergraduate** focused on building practical systems with **Machine Learning, Generative AI, backend technologies, and strong problem-solving fundamentals**.
 
-I enjoy taking ideas from **data → algorithms → models → APIs → working applications**, while continuously strengthening my foundation in **Data Structures & Algorithms**.
+I enjoy taking ideas from **algorithms → data → models → APIs → working applications**, while continuously strengthening my foundation in **Data Structures & Algorithms**.
 
 - 🧠 Exploring **Machine Learning & Generative AI**
 - 🤖 Building **RAG systems and AI-powered applications**
@@ -51,7 +47,13 @@ I enjoy taking ideas from **data → algorithms → models → APIs → working 
 
 I place a strong emphasis on **Data Structures & Algorithms** as the foundation of my software engineering journey.
 
-I regularly practice **algorithmic problem solving**, focusing on writing efficient, optimized, and maintainable solutions while developing a deeper understanding of computational complexity and problem-solving patterns.
+My focus includes:
+
+- Designing efficient and optimized solutions
+- Understanding time and space complexity
+- Breaking complex problems into smaller components
+- Developing strong algorithmic thinking
+- Writing clean, maintainable, and efficient code
 
 > **Strong fundamentals → Better problem solving → Better engineering.**
 
@@ -75,7 +77,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
   <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 </p>
 
-### 🤖 GenAI & RAG
+### 🤖 Generative AI & RAG
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -99,15 +101,65 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="./github-stats.svg" alt="GitHub Activity Statistics" />
 </p>
 
 <p align="center">
+  <b>Open Source • Pull Requests • Merged Contributions • Issues • Stars</b>
+</p>
+
+<p align="center">
   <i>Automatically updated through GitHub Actions.</i>
 </p>
+
+### 🔥 Contribution Snapshot
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🔀
+**PRs Opened**
+
+Pull requests I've raised across GitHub projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### ✅
+**PRs Merged**
+
+Contributions that successfully made it into projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐛
+**Issues Opened**
+
+Issues and discussions initiated across projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⭐
+**Repository Stars**
+
+Stars earned across my public repositories.
+
+</td>
+
+</tr>
+</table>
+
+> 📌 **These statistics are automatically calculated using the GitHub API and updated through GitHub Actions.**
 
 ---
 
@@ -115,6 +167,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🛣️ PaveXa
@@ -144,9 +197,11 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 - Streamlit interface
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 📄 HirenixCV
@@ -176,9 +231,11 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 - Semantic retrieval
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 📦 InvoiceLens
@@ -198,7 +255,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 
 ### 🌱 Open Source
 
-**Building and contributing to real-world open-source projects.**
+**Contributing to real-world open-source projects.**
 
 - Pull requests
 - Code reviews
@@ -207,6 +264,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 - Continuous learning
 
 </td>
+
 </tr>
 </table>
 
@@ -216,6 +274,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=bitwise-arnesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=github_dark" alt="GitHub Stats"/>
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwise-arnesh&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top Languages"/>
 </p>
 
@@ -232,7 +291,7 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 </p>
 
 <p align="center">
-  <i>Building, contributing, learning, and shipping — one commit at a time.</i>
+  <i>Building, contributing, learning, and shipping — one contribution at a time.</i>
 </p>
 
 ---
@@ -251,19 +310,18 @@ I regularly practice **algorithmic problem solving**, focusing on writing effici
 ## 🌐 Let's Connect
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/arneshbera">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/bitwise-arnesh">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bitwise-arnesh&label=Thanks%20for%20visiting&color=58A6FF&style=flat-square" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <i>"Build. Break. Learn. Improve. Repeat."</i>
